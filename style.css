@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+li {
+    color: white;
+}
+
+
+.section-two__form {
+    padding: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    border: solid black 1px;
+    height: 400px;
+    width: 200px;
+}
+
+.section-two__image {
+    height: 200px;
+    width: 200px;
+}
+
+.section-two__desc {
+    font-weight: 2px;
+    margin-top: 75px;
+}
+
+.section-two__button {
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+
+.section-three {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.section-three__name {
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.section-three__number {
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.section-three__email {
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.section-three__button {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    width: 500px;
+
+}
